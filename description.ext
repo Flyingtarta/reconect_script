@@ -1,0 +1,3 @@
+class CfgFunctions {
+   #include "tarta_reconect\functions.hpp"
+};
